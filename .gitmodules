@@ -1,3 +1,6 @@
 [submodule "sites/all/themes/progressive"]
 	path = sites/all/themes/progressive
 	url = git@gitlab.bluegrape.uk:drupal-themes/progressive-1.5.git
+[submodule "sites/all/modules/progressive_cms"]
+	path = sites/all/modules/progressive_cms
+	url = git@gitlab.bluegrape.uk:drupal-modules/progressive_cms.git
