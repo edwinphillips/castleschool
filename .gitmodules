@@ -10,3 +10,6 @@
 [submodule "sites/all/modules/md_slider"]
 	path = sites/all/modules/md_slider
 	url = git@gitlab.bluegrape.uk:drupal-modules/md_slider.git
+[submodule "sites/all/libraries/ckeditor"]
+	path = sites/all/libraries/ckeditor
+	url = git@gitlab.bluegrape.uk:drupal-libraries/ckeditor.git
