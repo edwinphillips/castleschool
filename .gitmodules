@@ -22,3 +22,6 @@
 	path = sites/default/files
 	url = git@gitlab.bluegrape.uk:castle-school/content-files.git
 	branch = master
+[submodule "sites/all/modules/castleschool_quote"]
+	path = sites/all/modules/castleschool_quote
+	url = git@gitlab.bluegrape.uk:castle-school/quote-block.git
