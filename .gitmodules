@@ -22,3 +22,6 @@
 	path = sites/default/files
 	url = git@gitlab.bluegrape.uk:castle-school/content-files.git
 	branch = master
+[submodule "sites/all/modules/castleschool"]
+	path = sites/all/modules/castleschool
+	url = git@gitlab.bluegrape.uk:drupal-modules/castle-school.git
