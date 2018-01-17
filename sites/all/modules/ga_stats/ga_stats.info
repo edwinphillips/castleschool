@@ -1,0 +1,12 @@
+core = "7.x"
+description = "Allows you to pull in data that Google Analytics has gathered for your site and use it in Views."
+name = "Google Analytics Statistics"
+package = "Statistics"
+configure = admin/config/services/ga_stats
+
+; Information added by Drupal.org packaging script on 2017-11-10
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "ga_stats"
+datestamp = "1510315387"
+
