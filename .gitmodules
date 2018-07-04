@@ -1,27 +1,27 @@
 [submodule "sites/all/themes/progressive"]
 	path = sites/all/themes/progressive
-	url = git@gitlab.bluegrape.uk:drupal-themes/progressive-1.5.git
+	url = git@github.com:edwinphillips/progressive.git
 	branch = castle-school
 [submodule "sites/all/modules/progressive_cms"]
 	path = sites/all/modules/progressive_cms
-	url = git@gitlab.bluegrape.uk:drupal-modules/progressive_cms.git
+	url = git@github.com:edwinphillips/progressive_cms.git
 	branch = master
 [submodule "sites/all/modules/nikadevs_cms"]
 	path = sites/all/modules/nikadevs_cms
-	url = git@gitlab.bluegrape.uk:drupal-modules/nikadevs_cms.git
+	url = git@github.com:edwinphillips/nikadevs_cms.git
 	branch = master
 [submodule "sites/all/modules/md_slider"]
 	path = sites/all/modules/md_slider
-	url = git@gitlab.bluegrape.uk:drupal-modules/md_slider.git
+	url = git@github.com:edwinphillips/md_slider.git
 	branch = master
 [submodule "sites/all/libraries/ckeditor"]
 	path = sites/all/libraries/ckeditor
-	url = git@gitlab.bluegrape.uk:drupal-libraries/ckeditor.git
+	url = git@github.com:edwinphillips/drupal-library-ckeditor.git
 	branch = master
 [submodule "sites/default/files"]
 	path = sites/default/files
-	url = git@gitlab.bluegrape.uk:castle-school/content-files.git
+	url = git@github.com:edwinphillips/castleschool-drupal-default-files.git
 	branch = master
 [submodule "sites/all/modules/castleschool"]
 	path = sites/all/modules/castleschool
-	url = git@gitlab.bluegrape.uk:drupal-modules/castle-school.git
+	url = git@github.com:edwinphillips/castleschool-drupal-module.git
