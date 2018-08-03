@@ -1,0 +1,3 @@
+[12-Jul-2018 21:03:33 UTC] PHP Fatal error:  Call to undefined function db_create_table() in /home/castlesc/public_html/modules/simpletest/tests/upgrade/drupal-6.trigger.database.php on line 6
+[22-Jul-2018 04:33:29 UTC] PHP Fatal error:  Call to undefined function db_create_table() in /home/castlesc/public_html/modules/simpletest/tests/upgrade/drupal-6.trigger.database.php on line 6
+[02-Aug-2018 03:15:49 UTC] PHP Fatal error:  Call to undefined function db_create_table() in /home/castlesc/public_html/modules/simpletest/tests/upgrade/drupal-6.trigger.database.php on line 6
